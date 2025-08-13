@@ -8,7 +8,7 @@ export const AppContextProvider = ({children}) => {
     const [weather, setWeather] = useState({});
     const [values, setValues] = useState([]);
     const [location, setLocation] = useState("");
-    const [place, setPlace] = useState('');
+    const [place, setPlace] = useState('kolkata');
 
     const fetchWeather = async() => {
         const options1 = {
