@@ -1,0 +1,1 @@
+This is an weather dashboard made using ReactJs. You can find realtime weather of any place from this app. In this app weather crossing API is used.
