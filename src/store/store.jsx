@@ -37,7 +37,7 @@ export const AppContextProvider = ({children}) => {
 
 
         }catch(e){
-            alert("This place does'n exist \n or maybe api request deadline /mont exceeded");
+            alert("This place does'n exist \n or maybe api request deadline /month exceeded");
         }
     }
 
